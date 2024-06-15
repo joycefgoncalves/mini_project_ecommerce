@@ -24,19 +24,12 @@ ecommerce_app/
 ## Overview
 This project is an e-commerce application built using Flask and SQLAlchemy. It provides a RESTful API for managing customers, products, orders, and more.
 
-## Project Requirements
-The project requirements outline the key features and functionalities of the application. See [Project Requirements](#project-requirements) section for details.
-
 ## Project Structure
 The project directory is structured as follows:
 - `app/`: Contains the application logic.
 - `config.py`: Configuration settings for the Flask application.
 - `run.py`: Entry point of the application.
 - `README.md`: This file containing project information.
-
-## Installation
-1. Clone the repository:
-
 
 ## Project Requirements
 - **Customer and CustomerAccount Management**: 
